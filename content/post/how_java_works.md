@@ -2,7 +2,7 @@
 title: "How Java Works"
 date: 2022-11-09T20:32:50-05:00
 categories: [development, publishing]
-tags: [hugo,content,static site generator]
+tags: [hugo]
 draft: false
 ---
 This is the first of a series of blogs I will write in Java. Today I will discuss How Java Works. This is an optional blog, if anyone is interested to know java more, you can go over it.
