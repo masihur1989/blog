@@ -1,9 +1,9 @@
 ---
-title: "Install_git"
+title: "Install Git"
 date: 2023-01-10T21:21:16-05:00
 categories: [development, publishing]
 tags: [git]
-draft: true
+draft: false
 ---
 # Install Git 
 
@@ -44,17 +44,20 @@ Most versions of MacOS will already have Git installed, and you can activate it 
 - Once the command output has completed, you can verify the installation by typing: `git version`.
 
 ## Install Git on Linux
+
 Fun fact: Git was originally developed to version the Linux operating system! So, it only makes sense that it is easy to configure to run on Linux.
 
 You can install Git on Linux through the package management tool that comes with your distribution.
 
 ### Debian/Ubuntu
+
 - Git packages are available using `apt`.
 - It's a good idea to make sure you're running the latest version. To do so, Navigate to your command prompt shell and run the following command to make sure everything is up-to-date: `sudo apt-get update`.
 - To install Git, run the following command: `sudo apt-get install git-all`.
 - Once the command output has completed, you can verify the installation by typing: git version.
 
 ### Fedora
+
 - Git packages are available using `dnf`.
 - To install Git, navigate to your command prompt shell and run the following command: `sudo dnf install git-all`.
 - Once the command output has completed, you can verify the installation by typing: `git version`.
