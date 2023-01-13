@@ -5,8 +5,6 @@ categories: [development, publishing]
 tags: [git]
 draft: false
 ---
-# Install Git 
-
 Git can be installed on the most common operating systems like Windows, Mac, and Linux. In fact, Git comes installed by default on most Mac and Linux machines!
 
 ## Checking for Git
